@@ -26,9 +26,9 @@
 #### DAGAN(fce=1)
 
 <div align="center">
-<img src="/1way3shot/fce1/test_z_variations_s3_fce1_k4_omniglot_dagan_experiment_default_50_1.png" height="800px" alt="0" >
-<img src="/1way3shot/fce1/test_z_variations_s3_fce1_k4_omniglot_dagan_experiment_default_50_2.png" height="800px" alt="0" >
-<img src="/1way3shot/fce1/test_z_variations_s3_fce1_k4_omniglot_dagan_experiment_default_50_3.png" height="800px" alt="0" >
+<img src="/1way3shot/fce1/test_z_variations_s3_fce1_k4_omniglot_dagan_experiment_default_50_1.png" height="1000px" alt="0" >
+<img src="/1way3shot/fce1/test_z_variations_s3_fce1_k4_omniglot_dagan_experiment_default_50_2.png" height="1000px" alt="0" >
+<img src="/1way3shot/fce1/test_z_variations_s3_fce1_k4_omniglot_dagan_experiment_default_50_3.png" height="1000px" alt="0" >
 </div>
 <center>DAGAN-1fce1way3shot</center>
 
