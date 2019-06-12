@@ -23,7 +23,7 @@
 
 <img src="/1way3shot/fce0/test_z_variations_s5_fce0_omniglot_dagan_experiment_default_21_4.png" height="600px" alt="0" >
 </div>
-<center>DAGAN-1way1shot</center>
+<center>DAGAN-0fce1way3shot</center>
 
 
 
@@ -36,5 +36,5 @@
 
 <img src="/1way3shot/fce1/test_z_variations_s3_fce1_k4_omniglot_dagan_experiment_default_50_3.png" height="600px" alt="0" >
 </div>
-<center>DAGAN-1way1shot</center>
+<center>DAGAN-1fce1way3shot</center>
 
